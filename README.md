@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jean Pierre 👋
 
-<!--
-**JeanPierreLara/JeanPierreLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Developer with 6+ years of experience building scalable Android applications.
 
-Here are some ideas to get you started:
+## 🧠 Focus Areas
+- Android Architecture (MVI, MVVM, Clean)
+- Jetpack Compose & UI systems
+- Android libraries & tooling
+- Kotlin, Coroutines, Flow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🧩 Kotlin Design Patterns – Practical implementations focused on real-world Android use cases
+- 🧠 MVI Android App – A production-ready Android app using MVI, Compose and modular architecture
+
+## 🤝 Open Source Contributions
+- Contributing to Android projects by improving architecture, code quality and best practices
+- Focused on maintainability, scalability and readability
+
+## 🛠️ Tech Stack
+Kotlin · Jetpack Compose · Coroutines · Flow · Hilt · Koin · Room · Retrofit · Clean Architecture · MVI
+
+## 📫 Let's connect
+- LinkedIn: https://www.linkedin.com/in/jean-pierre-lara-arana-1b505a167/
